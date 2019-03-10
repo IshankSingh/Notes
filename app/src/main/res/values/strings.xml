@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="demo_text">This is demo text</string>
+    <string name="notes_toolbar">Notes</string>
+    <string name="toolbar_back_button">back</string>
+    <string name="toolbar_check_button">Enter</string>
+    <string name="default_title">New Title</string>
+</resources>
