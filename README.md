@@ -1,3 +1,2 @@
-Use of Room persistence library.
-Use of RX JAVA.
+Use of Room persistence library and RX JAVA.<br>
 Customized EditText.
